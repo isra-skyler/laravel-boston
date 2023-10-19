@@ -1,5 +1,5 @@
 
-# Protecting Sensitive API Data with Laravel: Implementing Token Authentication in Your APIs
+# Protecting API Data at Scale with Custom Laravel Authentication
 
 As a senior Laravel developer at [Hybrid Web Agency](https://hybridwebagency.com/), I often find myself working with clients to build customized API solutions. One of the most important aspects of any API project is security, and implementing robust authentication is critical when dealing with sensitive user data.
 
